@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:6C63FF,100:FF4ECD&height=260&section=header&text=Amisha%20Singh&fontSize=62&fontColor=ffffff&animation=twinkling&stroke=FFFFFF&strokeWidth=1&desc=AI%20%26%20ML%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descSize=18&descAlignY=68" alt="Animated neon banner introducing Amisha Singh" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:6C63FF,100:FF4ECD&height=260&section=header&text=Amisha%20Singh&fontSize=62&fontColor=ffffff&animation=twinkling&stroke=FFFFFF&strokeWidth=1&desc=Artificial%20Intelligence%20and%20Machine%20Learning%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descSize=18&descAlignY=68" alt="Animated neon banner introducing Amisha Singh" width="100%" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=850&duration=2600&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=850&height=55&lines=Turning+curiosity+into+intelligent+software;Building+AI+that+helps+people;Exploring+quantum+machine+learning;One+experiment+at+a+time+%E2%9C%A8" alt="Animated rotating personal tagline" />
 </div>
@@ -21,7 +21,7 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
       <td align="center" width="50%">
         <h3>🌿 Building now</h3>
         <a href="https://github.com/amisha-sinobann/alvora.ai"><b>Alvora</b></a><br />
-        Exploring an algae-based air-purification system; a SIH 2025 national finalist project.
+        Exploring Alvora, an algae-based air-purification project recognized as a national finalist at SIH 2025.
       </td>
       <td align="center" width="50%">
         <h3>🧪 Exploring</h3>
@@ -29,6 +29,13 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20ACHIEVEMENT%20SPOTLIGHT%20%E2%9C%A6&fontSize=22&fontColor=FFB000&animation=twinkling" alt="Animated achievement spotlight section title" width="100%" />
+  <h3>🏆 Smart India Hackathon 2025</h3>
+  <p><b>National Grand Finalist</b> — Alvora, an algae-based air-purification project.</p>
+  <a href="https://github.com/amisha-sinobann/alvora.ai"><img src="https://img.shields.io/badge/Explore-Alvora-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Alvora project" /></a>
 </div>
 
 <div align="center">
