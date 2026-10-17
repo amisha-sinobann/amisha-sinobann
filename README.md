@@ -21,6 +21,7 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-6C63FF?style=for-the-badge" alt="Deep learning and neural networks" />
   <img src="https://img.shields.io/badge/LLMs_%26_Transformers-00A6A6?style=for-the-badge" alt="Large language models and transformers" />
   <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-FF4ECD?style=for-the-badge" alt="Retrieval-augmented generation and vector search" />
   <img src="https://img.shields.io/badge/NLP-FF9F43?style=for-the-badge" alt="Natural language processing" />
@@ -30,7 +31,7 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
   <img src="https://img.shields.io/badge/Deep_Reinforcement_Learning-EF4444?style=for-the-badge" alt="Deep reinforcement learning" />
 </div>
 
-I'm especially curious about **LLM-powered agents**, **retrieval-augmented generation (RAG)**, **vector search**, **tool calling**, **memory systems**, **transformer architectures**, **NLP**, **multimodal AI**, **computer vision**, and **quantum machine learning**.
+I'm especially curious about **deep learning and neural networks**, **LLM-powered agents**, **retrieval-augmented generation (RAG)**, **vector search**, **tool calling**, **memory systems**, **transformer architectures**, **NLP**, **multimodal AI**, **computer vision**, and **quantum machine learning**.
 
 <div align="center">
   <table>
@@ -86,7 +87,7 @@ I'm especially curious about **LLM-powered agents**, **retrieval-augmented gener
 </div>
 
 <div align="center">
-  <h3>AI, LLMs &amp; data</h3>
+  <h3>Deep learning, LLMs &amp; data</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
