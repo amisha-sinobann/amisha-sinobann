@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Amisha singh</h1>
-<h3 align="center">B.Tech CSE Student | Specialization in Artificial Intelligence and Machine Learning </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=190&section=header&text=Amisha%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="Animated Amisha Singh banner" width="100%" />
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+student+building+useful+things;Exploring+Agentic+AI+and+Computer+Vision;Learning+Quantum+Machine+Learning" alt="Animated typing headline" />
+  </a>
+</div>
 
 - 🔭 I’m currently working on **enhancing Alvora, an AI-powered, algae-based air purification system (SIH 2025 National Finalist).**
 
