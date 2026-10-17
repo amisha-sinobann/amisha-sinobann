@@ -10,13 +10,13 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontSize=22&fontColor=6C63FF&animation=twinkling" alt="Animated About Me section title" width="100%" />
+  <h2>✨ About Me ✨</h2>
 </div>
 
 I'm a **B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning**. I'm interested in building practical AI systems and exploring how modern models can reason, retrieve information, and interact with tools.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20AI%20%26%20RESEARCH%20INTERESTS%20%E2%9C%A6&fontSize=22&fontColor=00BFA6&animation=twinkling" alt="Animated AI research interests section title" width="100%" />
+  <h2>✨ AI &amp; Research Interests ✨</h2>
 </div>
 
 <div align="center">
@@ -49,14 +49,14 @@ I'm especially curious about **LLM-powered agents**, **retrieval-augmented gener
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20ACHIEVEMENT%20SPOTLIGHT%20%E2%9C%A6&fontSize=22&fontColor=FFB000&animation=twinkling" alt="Animated achievement spotlight section title" width="100%" />
+  <h2>✨ Achievement Spotlight ✨</h2>
   <h3>🏆 Smart India Hackathon 2025</h3>
   <p><b>National Grand Finalist</b> — Alvora, an algae-based air-purification project.</p>
   <a href="https://github.com/amisha-sinobann/alvora.ai"><img src="https://img.shields.io/badge/Explore-Alvora-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Alvora project" /></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20PROJECT%20SPOTLIGHT%20%E2%9C%A6&fontSize=22&fontColor=FF4ECD&animation=twinkling" alt="Animated Project Spotlight section title" width="100%" />
+  <h2>✨ Project Spotlight ✨</h2>
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@ I'm especially curious about **LLM-powered agents**, **retrieval-augmented gener
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20MY%20TOOLKIT%20%E2%9C%A6&fontSize=22&fontColor=00BFA6&animation=twinkling" alt="Animated toolkit section title" width="100%" />
+  <h2>✨ My Toolkit ✨</h2>
 </div>
 
 <div align="center">
@@ -120,7 +120,7 @@ I'm especially curious about **LLM-powered agents**, **retrieval-augmented gener
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20GITHUB%20ACTIVITY%20%E2%9C%A6&fontSize=22&fontColor=6C63FF&animation=twinkling" alt="Animated GitHub Activity section title" width="100%" />
+  <h2>✨ GitHub Activity ✨</h2>
 </div>
 
 <div align="center">
@@ -129,7 +129,7 @@ I'm especially curious about **LLM-powered agents**, **retrieval-augmented gener
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20LET'S%20CONNECT%20%E2%9C%A6&fontSize=22&fontColor=FF4ECD&animation=twinkling" alt="Animated Let's Connect section title" width="100%" />
+  <h2>✨ Let’s Connect ✨</h2>
   <p>Have an interesting AI, agentic systems, or computer vision idea? <a href="mailto:amishasinoban@gmail.com"><b>Let's talk ✉️</b></a></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:FF4ECD&height=130&section=footer&animation=twinkling" alt="Animated neon footer" width="100%" />
 </div>
