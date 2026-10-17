@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Vue, GSAP, and integrating Machine Learning models**
 
-- 📫 How to reach me **amisasinoban@gmail.com**
+- 📫 How to reach me **amishasinoban@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
