@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:6C63FF,100:FF4ECD&height=260&section=header&text=Amisha%20Singh&fontSize=62&fontColor=ffffff&animation=twinkling&stroke=FFFFFF&strokeWidth=1&desc=Artificial%20Intelligence%20and%20Machine%20Learning%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descSize=18&descAlignY=68" alt="Animated neon banner introducing Amisha Singh" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=850&duration=2600&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=850&height=55&lines=Turning+curiosity+into+intelligent+software;Building+AI+that+helps+people;Exploring+quantum+machine+learning;One+experiment+at+a+time+%E2%9C%A8" alt="Animated rotating personal tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=850&duration=2600&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=950&height=55&lines=Building+Agentic+AI+and+RAG+systems;Exploring+LLMs%2C+NLP%2C+and+Retrieval-Augmented+Generation;Experimenting+with+Transformers+and+Quantum+ML;Connecting+AI%2C+vision%2C+and+real-world+impact" alt="Animated rotation of AI research interests" />
 </div>
 
 <div align="center">
@@ -13,7 +13,24 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontSize=22&fontColor=6C63FF&animation=twinkling" alt="Animated About Me section title" width="100%" />
 </div>
 
-I'm a **B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning**. I enjoy taking ideas from a notebook to a working prototype—from intelligent software to experiments at the intersection of quantum computing and machine learning.
+I'm a **B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning**. I'm interested in building practical AI systems and exploring how modern models can reason, retrieve information, and interact with tools.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9C%A6%20AI%20%26%20RESEARCH%20INTERESTS%20%E2%9C%A6&fontSize=22&fontColor=00BFA6&animation=twinkling" alt="Animated AI research interests section title" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Transformers-00A6A6?style=for-the-badge" alt="Large language models and transformers" />
+  <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-FF4ECD?style=for-the-badge" alt="Retrieval-augmented generation and vector search" />
+  <img src="https://img.shields.io/badge/NLP-FF9F43?style=for-the-badge" alt="Natural language processing" />
+  <img src="https://img.shields.io/badge/Tool_Use_%26_Memory-3B82F6?style=for-the-badge" alt="Tool-using agents and memory" />
+  <img src="https://img.shields.io/badge/Computer_Vision-8B5CF6?style=for-the-badge" alt="Computer vision" />
+  <img src="https://img.shields.io/badge/Quantum_ML-14B8A6?style=for-the-badge" alt="Quantum machine learning" />
+  <img src="https://img.shields.io/badge/Deep_Reinforcement_Learning-EF4444?style=for-the-badge" alt="Deep reinforcement learning" />
+</div>
+
+I'm especially curious about **LLM-powered agents**, **retrieval-augmented generation (RAG)**, **vector search**, **tool calling**, **memory systems**, **transformer architectures**, **NLP**, **multimodal AI**, **computer vision**, and **quantum machine learning**.
 
 <div align="center">
   <table>
@@ -25,7 +42,7 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
       </td>
       <td align="center" width="50%">
         <h3>🧪 Exploring</h3>
-        Deep Q-Networks for algorithmic trading, Next.js, agentic AI, and computer vision.
+        Deep Q-Networks for algorithmic trading, LLM applications, RAG, agentic workflows, Next.js, and computer vision.
       </td>
     </tr>
   </table>
@@ -69,13 +86,18 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
 </div>
 
 <div align="center">
-  <h3>AI, data &amp; vision</h3>
+  <h3>AI, LLMs &amp; data</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <br />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformer models" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-6C63FF?style=for-the-badge" alt="Retrieval-augmented generation" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-00A6A6?style=for-the-badge" alt="Large language models" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-FF4ECD?style=for-the-badge" alt="Natural language processing" />
 </div>
 
 <div align="center">
